@@ -1,4 +1,4 @@
-# 🌲 POINTCLOUD TEST - GUÍA RÁPIDA DE USO
+# 🌲 GUÍA RÁPIDA DE USO
 
 ---
 

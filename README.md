@@ -57,7 +57,6 @@ Con la configuración anterior, el programa espera encontrar los datos en las si
 Desde el directorio `build`:
 
 ```bash
-cd /home/scedenilla/pointcloud_test/build
 make
 ```
 

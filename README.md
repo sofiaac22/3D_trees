@@ -51,8 +51,3 @@ Desde el mismo directorio:
 
     ./main
 
-5. EJECUCIÓN EN UN SOLO PASO
-
-    cd /home/scedenilla/pointcloud_test/build
-    make && ./main
-
